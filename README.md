@@ -11,7 +11,7 @@
 
 #### Aqui estão algumas informações interessantes :
 
-##### Link do meu Linkedin : linkedin.com/in/lucas-máximo-572b421b3
-##### GMAIL PROFISSIONAL : lucasmaximodeandrade@gmail.com
+##### Link do meu Linkedin: https://www.linkedin.com/in/lucas-m%C3%A1ximo-572b421b3
+##### GMAIL PROFISSIONAL: lucasmaximodeandrade@gmail.com
 
 ##### Vamos entrar em contato ? 
