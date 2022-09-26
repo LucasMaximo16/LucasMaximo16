@@ -1,16 +1,17 @@
-### Hi there 👋
+### Ola, eu me chamo Lucas Maximo. Sou desenvolvedor de software, e atualmente estou no penultimo semestre do curso de Analise e desenvolvimento de sistemas no UniCeub.
 
-<!--
-**LucasMaximo16/LucasMaximo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### -> HARD SKILLS
+  #####  Logica de Progamação : POO
+  #####  Java : Orientado a Objetos 
+  #####  Sprig Boot 
+  #####  JPA/Hibernate
+  #####  HTML/CSS3
+  #####  SQL
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Aqui estão algumas informações interessantes :
+
+##### Link do meu Linkedin : linkedin.com/in/lucas-máximo-572b421b3
+##### GMAIL PROFISSIONAL : lucasmaximodeandrade@gmail.com
+
+##### Vamos entrar em contato ? 
