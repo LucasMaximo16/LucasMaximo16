@@ -3,7 +3,9 @@
 #### -> HARD SKILLS
   #####  Logica de Progamação : POO
   #####  Java : Orientado a Objetos 
-  #####  Sprig Boot 
+  #####  Sprig Boot
+  #####  JavaScript 
+  #####  Angular 
   #####  JPA/Hibernate
   #####  HTML/CSS3
   #####  SQL
