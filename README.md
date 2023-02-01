@@ -1,19 +1,20 @@
-### Ola, eu me chamo Lucas Maximo. Sou desenvolvedor de software, e atualmente estou no penultimo semestre do curso de Analise e desenvolvimento de sistemas no UniCeub.
+### Hello, my name is Lucas and I'm a junior Developer.
 
 #### -> HARD SKILLS
-  #####  Logica de Progamação : POO
-  #####  Java : Orientado a Objetos 
+  #####  Java : POO 
   #####  Sprig Boot
-  #####  JavaScript 
+  #####  JavaScript
+  #####  TypeScript
+  #####  ReactScript
   #####  Angular 
   #####  JPA/Hibernate
   #####  HTML/CSS3
   #####  SQL
 
 
-#### Aqui estão algumas informações interessantes :
+#### That is my infomations of contact
 
-##### Link do meu Linkedin: https://www.linkedin.com/in/lucas-m%C3%A1ximo-572b421b3
-##### GMAIL PROFISSIONAL: lucasmaximodeandrade@gmail.com
+##### Link to my Linkedin: https://www.linkedin.com/in/lucas-m%C3%A1ximo-572b421b3
+##### GMAIL PROFESSIONAL: lucasmaximodeandrade@gmail.com
 
-##### Vamos entrar em contato ? 
+##### Let's make a contact ? 
