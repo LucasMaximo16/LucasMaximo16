@@ -1,4 +1,4 @@
-### Hello, my name is Lucas and I'm a junior Developer.
+### Hello, my name is Lucas and I'm a Developer.
 
 #### -> HARD SKILLS
   #####  Java : POO 
