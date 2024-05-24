@@ -28,4 +28,6 @@ Hello! My name is Lucas Máximo, and I am a passionate Full Stack Developer with
 I'm always open to discussing new opportunities and collaborations. Feel free to reach out!
 
 **LinkedIn**: [Lucas Máximo](https://www.linkedin.com/in/lucas-m%C3%A1ximo-572b421b3)  
-**Email**: [lucasmaximodeandrade@gmail.com](mailto:lucasmaximo
+**Email**: [lucasmaximodeandrade@gmail.com](mailto:lucasmaximodeandrade@gmail.com)
+
+Let's connect and explore how we can work together!
