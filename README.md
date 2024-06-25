@@ -8,6 +8,7 @@ Hello! My name is Lucas Máximo, and I am a passionate Full Stack Developer with
 - **Java**: OOP, Spring Boot
 - **JavaScript/TypeScript**: React, Angular
 - **SQL & NoSQL**: JPA/Hibernate, MySQL, PostgreSQL
+- **Cloud**: AWS, KAFKA, MQ
 
 ### Front-end Development:
 - HTML5, CSS3
